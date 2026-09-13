@@ -1,0 +1,27 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/caer-protocol",
+    "crates/caer-client",
+    "crates/caer-world",
+    "crates/caer-render",
+    "crates/caer-harness",
+    "crates/caer-assets",
+    "crates/caer-script",
+]
+
+[workspace.package]
+version = "0.0.1"
+edition = "2021"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/latentcollapse/RustDAoC"
+rust-version = "1.92"
+
+[workspace.lints.clippy]
+# The protocol layer is a faithful mirror of an external spec; allow the shapes that
+# mirroring produces rather than fighting the linter into obscuring the correspondence.
+too_many_arguments = "allow"
+
+[profile.release]
+lto = "thin"
+codegen-units = 1

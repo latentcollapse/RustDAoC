@@ -1,0 +1,16 @@
+[package]
+name = "caer-world"
+description = "Headless client-side world model: ingests the decoded packet stream into a live, benchmarkable entity store. The CPU substrate the renderer will later read from."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+caer-assets = { path = "../caer-assets" }   # parity_audit bin: fixtures/terrain/water/NIF parsing
+caer-protocol = { path = "../caer-protocol" }
+rayon = "1"
+
+[lints]
+workspace = true

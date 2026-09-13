@@ -1,0 +1,79 @@
+# EXTRACTED FROM game1127.dll's string table — the client's own names, not invented.
+# C string tables emit in reverse of source order, so these are reversed back.
+# The mapping from a keyboard.dat SLOT index to this order is NOT yet pinned;
+# see docs/RESUME_HERE.md. Do NOT assume index == slot.
+# index	internal_name
+0	Forward
+1	Back
+2	Jump/Up
+3	Walk
+4	Slide Left
+5	Slide Right
+6	Open
+7	Look up
+8	Look Down
+9	Reset Camera
+10	Mouse
+11	Toggle Names
+12	Forward2
+13	Get
+14	Torch
+15	Chat
+16	Target Enemy
+17	Target Friend
+18	Target Object
+19	Combat Mode
+20	Show Spells
+21	Sell
+22	Stats
+23	Inventory
+24	Group
+25	Back2
+26	Use Item
+27	Last Attacker
+28	Reply
+29	ChatLog
+30	Destroy
+31	Mouse Look Toggle
+32	Show Skills
+33	Show Combat
+34	Runlock
+35	Consider
+36	Ground Target
+37	Target Group1
+38	Target Group2
+39	Target Group3
+40	Target Group4
+41	Target Group5
+42	Target Group6
+43	Target Group7
+44	Target Group8
+45	PageUp
+46	PageDown
+47	PageUpSys
+48	PageDownSys
+49	Sit
+50	Perf. Meter
+51	Compass
+52	Information/Delve
+53	Pan Camera
+54	Follow
+55	Stick
+56	Face
+57	Craft
+58	Sprint
+59	Command Window
+60	Right Hand Weapon
+61	Two Handed Weapon
+62	Ranged Weapon
+63	Use Item Secondary
+64	Nearest Loot
+65	Mouse Pan
+66	Map Window
+67	Toggle Interface
+68	Realm War Map
+69	Quest Journal
+70	Run Lock 2
+71	Show Character Info
+72	Take Screenshot
+73	Camera Toggle

@@ -1,0 +1,20 @@
+direction	opcode_hex	opcode_dec	name	on_1127_route	oracle	caer_status	why_remainder
+S2C	0x1F	31	MarketExplorerWindow	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib1125.cs	PRESENT	header count/page/maxpage only; empty=255; not merchant 0x17 items
+S2C	0xE3	227	SiegeWeaponAnimation	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib1124.cs	PRESENT	prefix decode; 1124 action trailer opaque; WorldState last_siege_anim
+S2C	0xF5	245	SiegeWeaponInterface	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib1124.cs	PRESENT	header flag+close; close packet WriteShort(0)+WriteShort(1)
+S2C	0xF9	249	EmoteAnimation	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib168.cs	PRESENT	oid+emote+pad; WorldState last_emote; must not enqueue spell particles
+C2S	0xF5	245	SiegeCommandRequest	yes	OPEN_ORACLE:GameServer/packets/Client/168/SiegeWeaponActionHandler.cs	PRESENT	unk u16 + action + ammo; LiveCommand::SiegeCommand send-only
+C2S	0x80	128	DestroyItemRequest	yes	OPEN_ORACLE:GameServer/packets/Client/168/DestroyItemRequestHandler.cs	PRESENT	encode Skip(4)+slot; send-only; no local inventory mutation
+S2C	0x49	73	WarMapClaimedKeeps	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib1115.cs	ABSENT	RvR warmap
+S2C	0x4A	74	WarMapDetailUpdate	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib170.cs	ABSENT	RvR warmap
+S2C	0x61	97	KeepComponentInteractResponse	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib170.cs	ABSENT	RvR keep
+S2C	0x62	98	KeepClaim	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib170.cs	ABSENT	RvR keep
+S2C	0x69	105	KeepInfo	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib1124.cs	ABSENT	RvR keep
+S2C	0x7B	123	TrainerWindow	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib1105.cs	PRESENT	type 0/1 lines; types 3/4/5 header+opaque rest; EcoState trainer
+S2C	0x86	134	FindGroupUpdate	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib176.cs	PRESENT	count/empty only; not GroupWindow roster
+S2C	0xBD	189	Encumberance	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib168.cs	PRESENT	decode max/used BE shorts via EcoState::apply_s2c; no invented HUD AdapterName
+S2C	0xE2	226	EmblemDialogue	yes	OPEN_ORACLE:GameServer/packets/Server/PacketLib168.cs	PRESENT	Fill(0,4) presence; no invented emblem pixels
+C2S	0x7B	123	TrainWindowHandler	yes	OPEN_ORACLE:GameServer/packets/Client/168/PlayerTrainRequestHandler.cs	PRESENT	empty body; LiveCommand::TrainWindow
+C2S	0x7C	124	TrainRequest	yes	OPEN_ORACLE:GameServer/packets/Client/168/PlayerTrainRequestHandler.cs	PRESENT	X/Y/idLine/unk/row/skillIndex; send-only
+note	-	-	named_guild_roster	-	no dedicated 1.127 PacketLib guild-roster opcode on census	ABSENT	ObjectGuildID 0xDE is oid→guild id only; do not invent a roster packet
+note	-	-	ServerEvent_0x1E_0xDE	-	caer-abi CaerEventKind exhaustive C enum	INT	INT must add ServerEvent+CaerEventKind or keep EcoState::apply_s2c from Raw

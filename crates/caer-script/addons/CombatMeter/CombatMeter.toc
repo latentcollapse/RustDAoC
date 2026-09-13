@@ -1,0 +1,6 @@
+## Interface: 1
+## Title: CombatMeter
+## Version: 1.0.0
+## SavedVariables: CombatMeterDB
+## Notes: In-tree combat meter. Typed read-only events; commands queue AddonIntent only. No retail assets.
+main.lua

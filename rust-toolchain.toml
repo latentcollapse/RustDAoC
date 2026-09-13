@@ -1,0 +1,6 @@
+# Rust toolchain pin for CAER (System 1 / Sol finding 12 reproducibility).
+# Bump deliberately when the team accepts a new stable; do not float silently.
+[toolchain]
+channel = "1.97.1"
+components = ["rustfmt", "clippy"]
+profile = "minimal"

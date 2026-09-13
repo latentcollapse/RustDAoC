@@ -1,0 +1,18 @@
+{
+  "schema": "caer.harness/v1",
+  "run_id": "fixture-run",
+  "command_id": "customize-1",
+  "expected_revision": 12,
+  "deadline_ms": 2000,
+  "command": {
+    "kind": "activate_preworld",
+    "action": {
+      "action": "customize_slider",
+      "field": {
+        "field": "morph",
+        "slot": 2
+      },
+      "tick": 7
+    }
+  }
+}

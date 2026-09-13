@@ -1,0 +1,115 @@
+[package]
+name = "caer-render"
+# This package ships six binaries (the viewer plus five analysis tools), so a bare
+# `cargo run -p caer-render` is ambiguous and errors out. Name the viewer as the default so the
+# obvious command does the obvious thing.
+default-run = "caer-render"
+autobins = false
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+
+# The placeholder renderer: opens a wgpu window and draws the live `caer-world` `WorldState`
+# as instanced boxes at their real world positions, with a fly camera and grid-driven culling.
+# This is the FIRST thing that touches the GPU. It depends on the core crates; the core crates
+# never depend on it (hard rule: no renderer type leaks into caer-world/caer-protocol).
+
+[lib]
+name = "caer_render"
+path = "src/lib.rs"
+
+# Analysis tools behind `analysis-bins` so focused product tests do not compile them.
+
+# The developer/inspection lens: free-fly camera, editor, terrain brush, screenshots.
+[[bin]]
+name = "caer-render"
+path = "src/main.rs"
+
+# The player-level client: live connection + player-anchored camera, no editor chrome.
+[[bin]]
+name = "rustdaoc"
+path = "src/bin/rustdaoc.rs"
+
+# Council Phase-0 measurement harness (M9 frame-time baseline). Not a product binary.
+[[bin]]
+name = "m9_frametime"
+path = "src/bin/m9_frametime.rs"
+required-features = ["analysis-bins"]
+
+[[bin]]
+name = "worldprobe"
+path = "src/bin/worldprobe.rs"
+required-features = ["analysis-bins"]
+
+[[bin]]
+name = "uilayout"
+path = "src/bin/uilayout.rs"
+required-features = ["analysis-bins"]
+
+[[bin]]
+name = "rigcompare"
+path = "src/bin/rigcompare.rs"
+required-features = ["analysis-bins"]
+
+[[bin]]
+name = "mobground"
+path = "src/bin/mobground.rs"
+required-features = ["analysis-bins"]
+
+[[bin]]
+name = "clipsweep"
+path = "src/bin/clipsweep.rs"
+required-features = ["analysis-bins"]
+
+[[bin]]
+name = "avatarcover"
+path = "src/bin/avatarcover.rs"
+required-features = ["analysis-bins"]
+
+[[bin]]
+name = "animcover"
+path = "src/bin/animcover.rs"
+required-features = ["analysis-bins"]
+
+[dependencies]
+# Diagnostics. `log` is the facade the library code writes to; `env_logger` is the binary-side
+# sink, so the product client can default to quiet while the dev tools default to verbose.
+log = "0.4"
+env_logger = "0.11"
+caer-world = { path = "../caer-world" }
+caer-protocol = { path = "../caer-protocol" }
+caer-assets = { path = "../caer-assets" }
+caer-client = { path = "../caer-client" }   # --live: the real-server session feed
+caer-harness = { path = "../caer-harness" } # opt-in native observability wire contract
+caer-script = { path = "../caer-script" }   # rustdaoc AddonHost product seam (not WorldState)
+rayon = "1"               # §20 anim_skin strangler (CAER_PARALLEL_ANIM)
+rodio = { version = "0.20", default-features = false, features = ["symphonia-wav"] }
+libc = "0.2"
+# DAoC ships IMA-ADPCM WAVs; hound (default `wav` feature) cannot decode them.
+
+# Windowing + GPU. winit 0.30 uses the ApplicationHandler trait; wgpu 30 is the pure-Rust
+# cross-platform graphics API (Vulkan on this box via DXVK/native).
+winit = "0.30"
+wgpu = "29"
+pollster = "0.4"          # block on wgpu's async init from the sync winit callback
+bytemuck = { version = "1", features = ["derive"] }  # POD structs -> GPU byte buffers
+sha2 = "0.10"            # exact decoded-texture identity for the bounded entity cache
+serde_json = "1"         # opt-in caer.harness/v1 JSONL telemetry
+glam = "0.29"             # camera / projection math
+png = "0.17"              # --screenshot headless mode: offscreen frame -> PNG on disk
+egui = "0.35"
+egui-wgpu = "0.35"
+egui-winit = "0.35"
+# M19f allocator hypothesis (Claude): egui tess + submit co-move on constant workload → malloc.
+# Feature-gated so control (glibc) vs claim (mimalloc) are A/B builds of the same harness.
+mimalloc = { version = "0.1", default-features = false, optional = true }
+
+[features]
+default = []
+mimalloc = ["dep:mimalloc"]
+analysis-bins = []
+
+[lints]
+workspace = true

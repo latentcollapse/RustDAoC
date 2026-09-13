@@ -1,0 +1,10 @@
+{
+  "schema": "caer.harness/v1",
+  "run_id": "fixture-run",
+  "command_id": "snapshot-1",
+  "expected_revision": 12,
+  "deadline_ms": 2000,
+  "command": {
+    "kind": "snapshot"
+  }
+}

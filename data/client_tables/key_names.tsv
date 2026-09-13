@@ -1,0 +1,43 @@
+# EXTRACTED FROM game1127.dll's string table — the client's own names, not invented.
+# C string tables emit in reverse of source order, so these are reversed back.
+# The mapping from a keyboard.dat SLOT index to this order is NOT yet pinned;
+# see docs/RESUME_HERE.md. Do NOT assume index == slot.
+# index	key_name
+0	UNSET
+1	Escape
+2	Backspace
+3	Tab
+4	Enter
+5	Ctrl
+6	Colon
+7	Quote
+8	Tilde
+9	L-Shift
+10	BackSlash
+11	Slash
+12	R-Shift
+13	PrtScr
+14	Alt
+15	Space
+16	CAPS
+17	NumLock
+18	Scroll
+19	Home
+20	PgUp
+21	NumPad -
+22	Left
+23	NumPad Center
+24	Right
+25	NumPad +
+26	End
+27	Down
+28	PgDn
+29	Ins
+30	Del
+31	Left Mouse
+32	Right Mouse
+33	Middle Mouse
+34	Mouse4
+35	Mouse5
+36	<No Key>
+37	Left+Right Mouse

@@ -1,0 +1,11 @@
+{
+  "schema": "caer.harness/v1",
+  "run_id": "fixture-run",
+  "sequence": 41,
+  "elapsed_ms": 900,
+  "event": {
+    "kind": "heartbeat",
+    "revision": 12,
+    "progress_sequence": 40
+  }
+}

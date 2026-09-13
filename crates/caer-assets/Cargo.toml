@@ -1,0 +1,19 @@
+[package]
+name = "caer-assets"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+
+# DAoC client asset extraction. Slice 1: the MPAK (.mpk) archive reader — the foundation every
+# other asset (terrain heightmaps, NIF models, textures, the nif/fixture placement CSVs) is
+# packed inside. Renderer-agnostic: this crate only turns archives into bytes/files.
+
+[dependencies]
+log = "0.4"   # parser diagnostics via the log facade, not stderr prints
+flate2 = "1"          # zlib inflate — MPAK blocks are raw zlib streams
+png = "0.17"          # 16-bit grayscale heightmap round-trip (export to UE5 Landscape and back)
+
+[lints]
+workspace = true

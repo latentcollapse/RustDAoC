@@ -1,0 +1,6 @@
+## Interface: 1
+## Title: HelloCAER
+## Version: 1.0.0
+## SavedVariables: HelloCAERDB
+## Notes: In-tree example addon. No retail client assets.
+main.lua

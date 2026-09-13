@@ -1,0 +1,1040 @@
+Albion	Box	a_lampglow_01.dds	20	-infx-infx-inf
+Albion	Editable Mesh	E_corona_02_reverse_fade.dds	4	100x100x0
+Albion	Editable Mesh	E_corona_02_reverse_fade.dds	4	100x100x0
+Albion	Editable Mesh	E_corona_02_reverse_fade.dds	4	70x70x0
+Albion	Editable Mesh	E_corona_02_reverse_fade.dds	4	70x70x0
+Albion	Editable Mesh	E_corona_02_reverse_fade.dds	4	70x70x0
+Albion	Editable Mesh	E_corona_02_reverse_fade.dds	4	80x80x0
+Albion	Editable Mesh	fireshell3.dds	70	0x10x40
+Albion	Editable Mesh	fireshell3.dds	70	10x0x40
+Albion	Editable Mesh	fireshell3.dds	70	10x0x40
+Albion	Editable Mesh	fireshell3.dds	70	10x10x40
+Albion	Editable Mesh	fireshell3.dds	70	10x20x50
+Albion	Editable Mesh	fireshell3.dds	70	10x20x50
+Albion	Editable Poly	0f7cc4e2.dds	103	10x10x260
+Albion	Editable Poly	0f7cc4e2.dds	103	10x10x260
+Albion	Editable Poly	0f7cc4e2.dds	103	10x10x340
+Albion	Editable Poly	0f7cc4e2.dds	103	10x10x370
+Albion	Editable Poly	0f7cc4e2.dds	103	10x10x370
+Albion	Editable Poly	0f7cc4e2.dds	103	10x10x370
+Albion	Editable Poly	0f7cc4e2.dds	71	20x20x380
+Albion	Editable Poly	0f7cc4e2.dds	71	30x30x420
+Albion	Editable Poly	0f7cc4e2.dds	71	30x30x470
+Albion	Editable Poly	0f7cc4e2.dds	71	30x30x550
+Albion	Editable Poly	0f7cc4e2.dds	71	30x30x550
+Albion	Editable Poly	0f7cc4e2.dds	71	40x40x600
+Albion	Editable Poly	0f7cc4e2.dds	71	40x40x680
+Albion	Editable Poly	18e8fbfc.dds	72	20x20x220
+Albion	Editable Poly	18e8fbfc.dds	72	20x20x220
+Albion	Editable Poly	18e8fbfc.dds	72	20x20x280
+Albion	Editable Poly	18e8fbfc.dds	72	20x20x310
+Albion	Editable Poly	1c915f30.dds	88	30x50x210
+Albion	Editable Poly	1c915f30.dds	88	30x50x210
+Albion	Editable Poly	BlueFir_CMAP.dds	360	220x120x330
+Albion	Editable Poly	BlueFir_CMAP.dds	360	220x120x330
+Albion	Editable Poly	BlueFir_CMAP.dds	360	270x310x470
+Albion	Editable Poly	BlueFir_CMAP.dds	360	280x230x410
+Albion	Editable Poly	c5d62aa5.dds	80	10x10x380
+Albion	Editable Poly	c5d62aa5.dds	80	10x10x380
+Albion	Editable Poly	c5d62aa5.dds	80	20x20x480
+Albion	Editable Poly	c5d62aa5.dds	80	20x20x550
+Albion	Editable Poly	grass_alb.dds	5	0x0x10
+Albion	Editable Poly	grass_alb.dds	5	10x0x10
+Albion	Editable Poly	grass_alb.dds	5	10x0x10
+Albion	Editable Poly	grass_alb.dds	5	10x0x10
+Albion	Editable Poly	grass_alb.dds	5	10x0x20
+Albion	Editable Poly	grass_alb.dds	5	10x0x20
+Albion	Editable Poly	grass_alb.dds	5	10x0x20
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	20x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Editable Poly	grass_alb.dds	5	30x0x40
+Albion	Plane	alb_sun01.dds	4	220x110x230
+Albion	Plane	snow_drift01.dds	4	20x0x20
+Albion	PolyMesh	Winter_bannerpole.dds	252	50x20x230
+Albion	PolyMesh	banner_albion.DDS	1934	30x30x90
+Albion	PolyMesh	grass_alb.dds	4	10x0x10
+Albion	PolyMesh	grass_alb.dds	4	10x0x10
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	20x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x0x30
+Albion	PolyMesh	grass_alb.dds	4	30x10x30
+Albion	PolyMesh	grass_alb.dds	4	30x10x30
+Albion	PolyMesh	grass_alb.dds	4	30x10x30
+Albion	PolyMesh	grass_alb.dds	4	30x10x30
+Albion	PolyMesh	grass_alb.dds	4	50x0x50
+Albion	PolyMesh	grass_alb.dds	4	50x0x50
+Albion	PolyMesh	grass_alb.dds	4	50x0x50
+Albion	PolyMesh	grass_alb.dds	4	50x0x50
+Albion	PolyMesh	grass_alb.dds	4	50x0x50
+Albion	PolyMesh	grass_alb.dds	4	50x0x50
+Albion	PolyMesh	grass_alb.dds	4	50x0x50
+Albion	PolyMesh	grass_alb.dds	4	50x0x50
+Albion	PolyMesh	grass_alb.dds	4	50x10x50
+Albion	PolyMesh	grass_alb.dds	4	60x20x60
+Albion	PolyMesh	grass_alb.dds	4	60x20x60
+Albion	PolyMesh	grass_alb.dds	4	60x20x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	4	70x0x60
+Albion	PolyMesh	grass_alb.dds	5	30x10x40
+Albion	PolyMesh	grass_alb.dds	5	30x10x40
+Albion	PolyMesh	grass_alb.dds	5	30x10x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	40x0x40
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x0x60
+Albion	PolyMesh	grass_alb.dds	5	50x10x60
+Albion	PolyMesh	grass_alb.dds	5	50x10x60
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x0x80
+Albion	PolyMesh	grass_alb.dds	5	70x20x80
+Albion	PolyMesh	grass_alb.dds	5	70x20x80
+Albion	PolyMesh	grass_alb.dds	5	70x20x80
+Albion	PolyMesh	grass_alb.dds	5	70x20x80
+Albion	PolyMesh	grass_alb.dds	5	70x20x80
+Albion	PolyMesh	grass_alb.dds	5	70x20x80
+Albion	PolyMesh	sky_gradient.dds	1542	5230x5230x1500
+Albion	dome_NOALPHA_NOFOG	alb_panorama.dds	1202	4670x4670x1390
+Albion	dome_NOFOG	alb_panorama.dds	1132	4670x4670x1190
+Albion	peeble	CamelotHills_cliff_.dds	1606	410x480x60
+Albion	terrain	LightGrass3.dds	5070	5020x5050x700
+Albion	tower:0	a_brick01.dds	910	620x500x980
+Albion	tower:1	a_woodplanks01.dds	833	420x380x780
+Albion	tower:2	b_rndtwr_interior.dds	5239	540x340x950
+Albion	tower:3	b_rndtwr_exterior.dds	2166	540x540x930
+Albion	tree_leaves_NOFOG01	18588de8.dds	88	200x260x280
+Albion	tree_leaves_NOFOG02	91d4a88e.dds	228	90x70x210
+Albion	tree_leaves_NOFOG03	91d4a88e.dds	176	200x150x380
+Albion	tree_leaves_NOFOG04	d87afe89.dds	164	240x140x190
+Albion	tree_leaves_NOFOG05	91d4a88e.dds	176	250x190x470
+Albion	tree_leaves_NOFOG06	91d4a88e.dds	228	90x70x210
+Albion	tree_leaves_NOFOG07	d87afe89.dds	164	240x150x190
+Albion	tree_leaves_NOFOG09	18588de8.dds	88	210x260x280
+Albion	tree_leaves_NOFOG10	91d4a88e.dds	176	220x160x420
+Albion	tree_leaves_NOFOG11	91d4a88e.dds	228	120x100x280
+Albion	tree_leaves_NOFOG12	91d4a88e.dds	228	140x110x300
+Albion	tree_leaves_NOFOG13	91d4a88e.dds	176	280x210x550
+Albion	tree_leaves_NOFOG14	91d4a88e.dds	176	340x260x680
+Albion	tree_leaves_NOFOG15	91d4a88e.dds	228	140x110x300
+Albion	tree_leaves_NOFOG16	d87afe89.dds	164	270x320x280
+Albion	tree_leaves_NOFOG19	d87afe89.dds	164	280x230x240
+Albion	tree_leaves_NOFOG20	91d4a88e.dds	176	250x300x600
+Albion	tree_leaves_NOFOG21	91d4a88e.dds	176	220x280x550
+Albion	tree_leaves_NOFOG22	91d4a88e.dds	228	110x140x300
+Midgard	Box	a_lampglow_01.dds	20	-infx-infx-inf
+Midgard	Editable Mesh	N_banners.dds	146	20x20x110
+Midgard	Editable Mesh	N_banners.dds	146	20x20x110
+Midgard	Editable Poly	Winter_bannerpole-SNOW.tga	252	50x20x230
+Midgard	Object01	mid_teleport.dds	8768	790x920x440
+Midgard	Plane	snow_drift01.dds	4	20x0x20
+Midgard	Plane01	Mid_ground02.dds	7649	4570x4450x370
+Midgard	PolyMesh	Mid_cloud-layer01.dds	1542	4900x4900x1400
+Midgard	PolyMesh	banner_midgard.DDS	1934	30x30x90
+Midgard	dome_NOFOG	Mid_panarama.dds	1799	4670x4670x1650
+Midgard	foregrpound:0	Mid_ground02.dds	2157	170x200x50
+Midgard	foregrpound:1	Mid_ground02.dds	2523	2000x2490x160
+Midgard	jordKEEP02	gate_RTT.dds	3336	890x840x320
+Midgard	jordKEEP03	gate_RTT.dds	3336	920x800x320
+Midgard	jordgate04	gate_RTT.dds	13617	760x810x490
+Midgard	jordgate05	gate_RTT.dds	13620	880x700x490
+Midgard	rock02	mid_rock01.dds	3239	1000x620x200
+Midgard	show topper	Mid_ground02.dds	87	20x0x10
+Midgard	skull01	skull_snow01.dds	641	10x10x10
+Midgard	skull03	skull_snow01.dds	1282	20x10x10
+Hibernia	Box	a_lampglow_01.dds	20	-infx-infx-inf
+Hibernia	DrawCall_10	02485923.dds	668	610x610x930
+Hibernia	Editable Mesh	410a753c.dds	180	370x640x1300
+Hibernia	Editable Mesh	410a753c.dds	180	380x640x1300
+Hibernia	Editable Mesh	410a753c.dds	180	560x490x1300
+Hibernia	Editable Mesh	410a753c.dds	180	640x390x1300
+Hibernia	Editable Mesh	410a753c.dds	180	640x390x1300
+Hibernia	Editable Mesh	410a753c.dds	91	300x190x900
+Hibernia	Editable Mesh	410a753c.dds	91	310x220x900
+Hibernia	Editable Mesh	410a753c.dds	91	320x200x900
+Hibernia	Editable Mesh	410a753c.dds	91	380x240x1120
+Hibernia	Editable Mesh	410a753c.dds	91	430x390x1490
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	0x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x10
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x20
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x20
+Hibernia	Editable Poly	grass_alb.dds	5	10x0x20
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x0x40
+Hibernia	Editable Poly	grass_alb.dds	5	20x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	grass_alb.dds	5	30x10x40
+Hibernia	Editable Poly	hib_clouds.dds	1799	4670x4670x1600
+Hibernia	H_elftower2_HI:0	H_elftower2_top.dds	1246	280x280x410
+Hibernia	H_elftower2_HI:1	H_elftower2_base.dds	4904	430x430x660
+Hibernia	H_elftower2_arches	H_elfshop_arch.dds	84	200x190x30
+Hibernia	H_elftower2_ramp	hib_filigree_gold.dds	128	400x400x540
+Hibernia	Loft01	tree_moss.dds	2509	1520x640x350
+Hibernia	Loft02	tree_moss.dds	648	530x500x80
+Hibernia	Loft03	tree_moss.dds	648	330x180x90
+Hibernia	Loft04	h_treebark.dds	2383	310x270x2270
+Hibernia	Loft05	h_treebark.dds	1296	620x700x1460
+Hibernia	Loft07	tree_moss.dds	2509	1520x780x380
+Hibernia	Loft09	tree_moss.dds	648	290x230x100
+Hibernia	NEW:0	HMossy_cobble.dds	34	400x400x0
+Hibernia	NEW:1	H_portalrock.dds	395	520x590x100
+Hibernia	NEW:2	hib_trim_02.dds	9466	490x600x420
+Hibernia	NEW:3	a_marble_gold.dds	1663	420x120x300
+Hibernia	NEW:4	H_jewelclear.dds	58	330x20x20
+Hibernia	NEW:5	H_elfshop_arch.dds	4082	460x130x310
+Hibernia	Plane	orncore.dds	4	660x500x850
+Hibernia	PolyMesh	Winter_bannerpole.dds	252	40x30x230
+Hibernia	PolyMesh	banner_hibernia.dds	1934	40x30x90
+Hibernia	PolyMesh	grass_alb.dds	4	0x20x30
+Hibernia	PolyMesh	grass_alb.dds	4	100x60x110
+Hibernia	PolyMesh	grass_alb.dds	4	100x60x110
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	4	10x40x40
+Hibernia	PolyMesh	grass_alb.dds	4	10x40x40
+Hibernia	PolyMesh	grass_alb.dds	4	10x40x40
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x0x20
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	20x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x10x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x20x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x20x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x20x30
+Hibernia	PolyMesh	grass_alb.dds	4	30x20x30
+Hibernia	PolyMesh	grass_alb.dds	4	40x30x50
+Hibernia	PolyMesh	grass_alb.dds	4	50x10x50
+Hibernia	PolyMesh	grass_alb.dds	4	50x10x50
+Hibernia	PolyMesh	grass_alb.dds	4	50x10x50
+Hibernia	PolyMesh	grass_alb.dds	4	50x10x50
+Hibernia	PolyMesh	grass_alb.dds	4	50x10x50
+Hibernia	PolyMesh	grass_alb.dds	4	50x10x50
+Hibernia	PolyMesh	grass_alb.dds	4	50x10x50
+Hibernia	PolyMesh	grass_alb.dds	4	50x10x50
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x20x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x30x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x30x60
+Hibernia	PolyMesh	grass_alb.dds	4	60x30x60
+Hibernia	PolyMesh	grass_alb.dds	5	100x10x110
+Hibernia	PolyMesh	grass_alb.dds	5	10x0x10
+Hibernia	PolyMesh	grass_alb.dds	5	170x10x180
+Hibernia	PolyMesh	grass_alb.dds	5	170x10x180
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x10x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x20x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x20x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x20x40
+Hibernia	PolyMesh	grass_alb.dds	5	30x50x60
+Hibernia	PolyMesh	grass_alb.dds	5	40x60x80
+Hibernia	PolyMesh	grass_alb.dds	5	40x70x90
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x10x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x30x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x30x60
+Hibernia	PolyMesh	grass_alb.dds	5	50x90x110
+Hibernia	PolyMesh	grass_alb.dds	5	60x40x80
+Hibernia	PolyMesh	grass_alb.dds	5	60x40x80
+Hibernia	PolyMesh	grass_alb.dds	5	60x40x80
+Hibernia	PolyMesh	grass_alb.dds	5	60x40x80
+Hibernia	PolyMesh	grass_alb.dds	5	60x40x80
+Hibernia	PolyMesh	grass_alb.dds	5	60x40x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	grass_alb.dds	5	70x20x80
+Hibernia	PolyMesh	mushroom01.tga	523	110x120x110
+Hibernia	PolyMesh	mushroom01.tga	523	80x80x80
+Hibernia	birch_tri_base01-LEAVES	ffbcade5.dds	328	880x590x1130
+Hibernia	birch_tri_base01-LEAVES02	ffbcade5.dds	328	1160x610x1500
+Hibernia	birch_tri_base01-LEAVES03	ffbcade5.dds	328	700x470x920
+Hibernia	birch_tri_base01-LEAVES04	ffbcade5.dds	328	560x650x900
+Hibernia	birch_tri_base01-LEAVES05	ffbcade5.dds	328	610x620x900
+Hibernia	branch	tree2.dds	14	40x510x460
+Hibernia	branch01	tree2.dds	14	250x480x500
+Hibernia	branch02	tree2.dds	14	250x630x570
+Hibernia	branch03	tree2.dds	14	250x480x500
+Hibernia	branch04	tree2.dds	14	320x520x630
+Hibernia	branch05	tree2.dds	14	20x320x340
+Hibernia	branch06	tree2.dds	14	20x320x340
+Hibernia	branch07	tree2.dds	14	20x320x340
+Hibernia	corona_NOFOG	hotglow_green.dds	8	260x0x260
+Hibernia	leaves00	ffbcade5.dds	8	350x410x460
+Hibernia	leaves01	ffbcade5.dds	8	350x410x460
+Hibernia	leaves02	ffbcade5.dds	8	350x410x460
+Hibernia	leaves03	ffbcade5.dds	8	350x410x460
+Hibernia	leaves04	ffbcade5.dds	8	350x410x460
+Hibernia	leaves05	ffbcade5.dds	8	410x160x370
+Hibernia	leaves06	ffbcade5.dds	8	300x60x260
+Hibernia	leaves07	ffbcade5.dds	8	300x60x260
+Hibernia	leaves08	ffbcade5.dds	8	300x60x260
+Hibernia	leaves09	ffbcade5.dds	8	410x160x370
+Hibernia	leaves10	ffbcade5.dds	8	170x250x250
+Hibernia	leaves11	ffbcade5.dds	8	170x250x250
+Hibernia	leaves12	ffbcade5.dds	8	50x170x150
+Hibernia	peeble	CamelotHills_cliff_.dds	1606	470x400x60
+Hibernia	ripple_NOFOG	waveplas2.dds	348	170x0x170
+Hibernia	rocks	rocky_moss.dds	896	730x1780x320
+Hibernia	swirls_NOFOG	sunflarecyl2_green.dds	331	440x0x440
+Hibernia	terrain	h_grass_craggy.dds	6684	5120x5230x470
+Hibernia	tree01	02485923.dds	668	760x800x1230
+Hibernia	tree_birch-LEAVES	ffbcade5.dds	416	930x880x1080
+Hibernia	tree_birch-LEAVES01	ffbcade5.dds	416	760x1040x1080
+Hibernia	tree_birch-LEAVES02	ffbcade5.dds	416	690x1040x1080
+Hibernia	tree_birch-LEAVES03	ffbcade5.dds	416	1020x650x1080
+Hibernia	tree_birch-LEAVES04	ffbcade5.dds	416	1020x650x1080

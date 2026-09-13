@@ -1,0 +1,20 @@
+{
+  "schema": "caer.harness/v1",
+  "run_id": "fixture-run",
+  "sequence": 1,
+  "elapsed_ms": 4,
+  "event": {
+    "kind": "hello",
+    "identity": {
+      "source_revision": { "state": "known", "value": "abc123" },
+      "dirty_diff_identity": { "state": "known", "value": "clean" },
+      "executable_sha256": { "state": "known", "value": "012345" },
+      "build_profile": { "state": "known", "value": "debug" },
+      "adapter": { "state": "unknown", "reason": "GPU not initialized" },
+      "backend": { "state": "unknown", "reason": "GPU not initialized" },
+      "process_id": { "state": "known", "value": 1234 },
+      "parent_process_id": { "state": "known", "value": 1200 }
+    },
+    "features": ["harness-jsonl"]
+  }
+}

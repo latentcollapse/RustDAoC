@@ -1,0 +1,11 @@
+/target/
+/artifacts/
+/captures/
+
+*.dll
+*.mpk
+*.pcap
+
+rustdaoc.local.conf
+.env
+.DS_Store

@@ -1,0 +1,41 @@
+# EXTRACTED FROM game1127.dll's string table — the client's own names, not invented.
+# C string tables emit in reverse of source order, so these are reversed back.
+# The mapping from a keyboard.dat SLOT index to this order is NOT yet pinned;
+# see docs/RESUME_HERE.md. Do NOT assume index == slot.
+# index	display_name
+0	Move Forward
+1	Move Backward
+2	Turn Left
+3	Turn Right
+4	Strafe Toggle
+5	Strafe Left
+6	Strafe Right
+7	Select/Open
+8	Camera Reset
+9	Mouselook Toggle
+10	Get Item
+11	Nearest Enemy
+12	Nearest Friend
+13	Nearest Object
+14	Attack Mode
+15	Show Stats
+16	Show Inventory
+17	Show Group
+18	Chat Logging
+19	Destroy Item
+20	Mouse Look
+21	Run Lock
+22	Target Group #1
+23	Target Group #2
+24	Target Group #3
+25	Target Group #4
+26	Target Group #5
+27	Target Group #6
+28	Target Group #7
+29	Target Group #8
+30	Chat Page Up
+31	Chat Page Down
+32	Sit/Stand
+33	Camera Pan
+34	Craft/Salvage
+35	Use Item 2nd
